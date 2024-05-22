@@ -1,0 +1,81 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.card
+{
+    background-color: #FAFAF5;
+    width: 340px;
+    height: 120px;
+    border-radius: 24px;
+    border: 2px solid #E6E6E6;
+}
+
+.employee-name
+{
+    width: 153px;
+    height: 26px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    text-align: left;
+}
+
+.job-title
+{
+    width: 86px;
+    height: 26px;
+    top: 54px;
+    left: 184px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    text-align: left;
+    color: #426B1F; 
+}
+
+.pass-id
+{
+    width: 182px;
+    height: 40px;
+    top: 95px;
+    left: 184px;
+    gap: 10px;
+    border-radius: 20px;
+    border: 2px;
+    opacity: 0px;
+    border: 2px solid #0000000F;
+}
+
+.more-info
+{
+    width: 126px;
+    height: 48px;
+    padding: 11px 17px 11px 17px;
+    gap: 8px;
+    border-radius: 4px;
+    opacity: 0px;
+    background: #FFB016;
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+
+.employee-info
+{
+    padding: 12px;
+}
+
+.employee-photo
+{
+    height: 159px;
+}
